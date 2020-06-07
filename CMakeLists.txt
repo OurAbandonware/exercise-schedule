@@ -1,1 +1,1 @@
-cmak
+cmake

@@ -1,1 +1,1 @@
-cmake_m
+cmake_min

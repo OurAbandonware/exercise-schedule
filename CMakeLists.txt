@@ -1,1 +1,1 @@
-cmake_minimum_
+cmake_minimum_re

@@ -1,1 +1,1 @@
-cmake_minimum_required(VERS
+cmake_minimum_required(VERSIO

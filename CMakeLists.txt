@@ -1,1 +1,1 @@
-cmake_minimum_required(VE
+cmake_minimum_required(VERS

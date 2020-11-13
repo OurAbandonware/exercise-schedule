@@ -10,3 +10,4 @@ The goal is to simulate different trading algorithms algorithms with historic st
 ## Trading algorithms
 ### Mean Reversion
 ```
+RunSimulator 1 [int starting cash per stock] [int ] [String stock1] [String Stock2] ...

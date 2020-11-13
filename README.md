@@ -9,3 +9,4 @@ The goal is to simulate different trading algorithms algorithms with historic st
 
 ## Trading algorithms
 ### Mean Reversion
+```

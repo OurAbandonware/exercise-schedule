@@ -14,3 +14,4 @@ RunSimulator 1 [int starting cash per stock] [int ] [String stock1] [String Stoc
 ```
 
 ## How To Use
+### Generating Stocks

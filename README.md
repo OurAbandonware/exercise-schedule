@@ -12,3 +12,5 @@ The goal is to simulate different trading algorithms algorithms with historic st
 ```
 RunSimulator 1 [int starting cash per stock] [int ] [String stock1] [String Stock2] ...
 ```
+
+## How To Use

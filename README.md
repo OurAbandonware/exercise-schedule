@@ -16,3 +16,5 @@ RunSimulator 1 [int starting cash per stock] [int ] [String stock1] [String Stoc
 ## How To Use
 ### Generating Stocks
 You need to generate stock csv. We will use the data points obtained from alpha vantage.
+To get a stock csv use 
+GenerateStock [Stock Name]

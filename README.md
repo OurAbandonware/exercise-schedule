@@ -20,3 +20,5 @@ To get a stock csv use
 GenerateStock [Stock Name]
 
 To keep things simple for the simulation we will use Daily Adjusted times from AlphaVantage
+
+## Dependencies

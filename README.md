@@ -22,3 +22,4 @@ GenerateStock [Stock Name]
 To keep things simple for the simulation we will use Daily Adjusted times from AlphaVantage
 
 ## Dependencies
+To include "csv.h" we use https://github.com/vincentlaucsb/csv-parser

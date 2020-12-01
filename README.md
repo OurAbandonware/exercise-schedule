@@ -25,3 +25,4 @@ To keep things simple for the simulation we will use Daily Adjusted times from A
 To include "csv.h" we use https://github.com/vincentlaucsb/csv-parser
 
 ### Input arguments
+Run the simulator with its respective arguments.

@@ -27,3 +27,5 @@ To include "csv.h" we use https://github.com/vincentlaucsb/csv-parser
 ### Input arguments
 Run the simulator with its respective arguments.
 ### UI - Not Done and Probably never will
+
+Upon start

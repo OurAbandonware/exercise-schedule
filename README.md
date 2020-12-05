@@ -30,3 +30,6 @@ Run the simulator with its respective arguments.
 
 Upon start
 ```
+Welcome to Samin's Trading simulator.
+Select which algorithm you would like to use?
+1) Reversion

@@ -35,3 +35,5 @@ Select which algorithm you would like to use?
 1) Reversion
 2) Quitgoo
 ```
+
+Upon Quit

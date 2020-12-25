@@ -41,3 +41,5 @@ Upon Quit
 Goodbye
 (Then Quits application)
 ```
+
+Upon Selecting a strategy

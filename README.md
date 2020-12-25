@@ -46,3 +46,5 @@ Upon Selecting a strategy
 ```
 Enter the stock you would like to use.
 ```
+
+It would then repeat this line until a blank line is enter

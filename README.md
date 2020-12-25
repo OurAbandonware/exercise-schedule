@@ -43,3 +43,5 @@ Goodbye
 ```
 
 Upon Selecting a strategy
+```
+Enter the stock you would like to use.

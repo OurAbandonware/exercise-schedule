@@ -48,3 +48,5 @@ Enter the stock you would like to use.
 ```
 
 It would then repeat this line until a blank line is enter
+
+Upon blank line

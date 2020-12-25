@@ -38,3 +38,5 @@ Select which algorithm you would like to use?
 
 Upon Quit
 ```
+Goodbye
+(Then Quits application)

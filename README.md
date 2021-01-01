@@ -57,3 +57,4 @@ Enter the max amount of initial money you want to spend on each stock.
 Upon entering money
 ```
 Here are the results!
+[Stock 1]: [Gain/Loss]

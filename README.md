@@ -53,3 +53,6 @@ Upon blank line
 ```
 Enter the max amount of initial money you want to spend on each stock.
 ```
+
+Upon entering money
+```

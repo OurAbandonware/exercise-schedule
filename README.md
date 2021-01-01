@@ -52,3 +52,4 @@ It would then repeat this line until a blank line is enter
 Upon blank line
 ```
 Enter the max amount of initial money you want to spend on each stock.
+```

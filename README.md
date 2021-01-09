@@ -59,3 +59,4 @@ Upon entering money
 Here are the results!
 [Stock 1]: [Gain/Loss]
 [Stock 2]: [Gain/Loss]
+...

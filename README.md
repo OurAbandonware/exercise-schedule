@@ -62,3 +62,5 @@ Here are the results!
 ...
 Total Gain: [Gain/Loss]
 ```
+
+### Input as Arguments

@@ -64,3 +64,5 @@ Total Gain: [Gain/Loss]
 ```
 
 ### Input as Arguments
+
+Upon running the simulator, pass in the arguments as inputs.

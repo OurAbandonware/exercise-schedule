@@ -1,3 +1,3 @@
 #include <iostream>
 
-in
+int

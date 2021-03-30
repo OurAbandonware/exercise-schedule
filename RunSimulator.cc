@@ -1,3 +1,3 @@
 #include <iostream>
 
-int mai
+int main

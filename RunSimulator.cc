@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main(int argc, char 
+int main(int argc, char *

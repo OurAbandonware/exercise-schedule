@@ -2,4 +2,4 @@
 
 int main(int argc, char *argv[]) {
 
-    std::cout << "Hell
+    std::cout << "Hello

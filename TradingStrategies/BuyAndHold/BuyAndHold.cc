@@ -1,3 +1,3 @@
 #include "BuyAndHold.h"
 
-    int BuyA
+    int BuyAnd

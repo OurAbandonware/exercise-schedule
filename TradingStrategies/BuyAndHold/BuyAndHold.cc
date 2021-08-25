@@ -1,3 +1,3 @@
 #include "BuyAndHold.h"
 
-    int BuyAndHold::evalua
+    int BuyAndHold::evaluate

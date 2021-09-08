@@ -1,3 +1,3 @@
 #include "BuyAndHold.h"
 
-    int BuyAndHold::evaluate(char *data[])
+    int BuyAndHold::evaluate(char *data[]) 

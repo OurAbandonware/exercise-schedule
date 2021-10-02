@@ -2,4 +2,4 @@
 
     int BuyAndHold::evaluate(char *data[]) {
         return 0;
-  
+   

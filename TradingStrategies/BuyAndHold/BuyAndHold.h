@@ -1,1 +1,1 @@
-// This stra
+// This strat

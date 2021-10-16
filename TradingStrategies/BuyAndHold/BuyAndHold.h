@@ -1,1 +1,1 @@
-// This strate
+// This strateg

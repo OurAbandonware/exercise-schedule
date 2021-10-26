@@ -1,1 +1,1 @@
-// This strategy 
+// This strategy wi

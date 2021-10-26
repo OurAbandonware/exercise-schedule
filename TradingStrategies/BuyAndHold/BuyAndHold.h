@@ -1,1 +1,1 @@
-// This strateg
+// This strategy

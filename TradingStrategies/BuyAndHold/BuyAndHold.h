@@ -1,1 +1,1 @@
-// This strategy will jus
+// This strategy will just

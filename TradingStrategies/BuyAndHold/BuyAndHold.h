@@ -1,1 +1,1 @@
-// This strategy will just bu
+// This strategy will just buy

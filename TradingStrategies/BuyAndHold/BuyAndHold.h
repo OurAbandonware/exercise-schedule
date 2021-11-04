@@ -1,1 +1,1 @@
-// This strategy will just buy as mu
+// This strategy will just buy as much

@@ -1,1 +1,1 @@
-// This strategy will just buy as much 
+// This strategy will just buy as much o

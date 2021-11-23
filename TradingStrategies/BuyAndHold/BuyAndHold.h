@@ -1,1 +1,1 @@
-// This strategy will just buy as much of the stock as possible at 
+// This strategy will just buy as much of the stock as possible at t

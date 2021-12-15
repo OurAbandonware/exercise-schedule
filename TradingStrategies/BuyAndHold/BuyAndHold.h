@@ -1,1 +1,1 @@
-// This strategy will just buy as much of the stock as possible at the beginning and se
+// This strategy will just buy as much of the stock as possible at the beginning and sel

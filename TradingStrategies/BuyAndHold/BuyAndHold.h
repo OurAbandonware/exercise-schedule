@@ -2,3 +2,5 @@
 #include "../Interfaces/TradingStrategy.h"
 
 class BuyAndHold: public TradingStrategy {
+
+  

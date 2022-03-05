@@ -3,4 +3,4 @@
 
 class BuyAndHold: public TradingStrategy {
 
-  pu
+  publ

@@ -4,4 +4,4 @@
 class BuyAndHold: public TradingStrategy {
 
   public:
-    BuyA
+    BuyAn

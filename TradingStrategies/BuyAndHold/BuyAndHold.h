@@ -5,4 +5,4 @@ class BuyAndHold: public TradingStrategy {
 
   public:
     BuyAndHold();
-    int evaluate(c
+    int evaluate(ch

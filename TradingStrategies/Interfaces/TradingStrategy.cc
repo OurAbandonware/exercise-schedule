@@ -1,1 +1,1 @@
-#include "TradingStrategy
+#include "TradingStrategy.

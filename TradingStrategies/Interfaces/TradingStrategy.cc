@@ -1,1 +1,1 @@
-#include "TradingStrategy.h
+#include "TradingStrategy.h"

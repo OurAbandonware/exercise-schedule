@@ -1,1 +1,1 @@
-clas
+class

@@ -1,1 +1,1 @@
-class TradingS
+class TradingSt

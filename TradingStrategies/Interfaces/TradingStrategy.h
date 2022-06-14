@@ -1,1 +1,1 @@
-class TradingStrate
+class TradingStrateg

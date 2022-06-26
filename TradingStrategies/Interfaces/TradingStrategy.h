@@ -1,1 +1,1 @@
-class TradingStrategy 
+class TradingStrategy {

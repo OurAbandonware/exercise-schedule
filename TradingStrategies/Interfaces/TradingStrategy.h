@@ -1,3 +1,3 @@
 class TradingStrategy {
 
-    p
+    pub

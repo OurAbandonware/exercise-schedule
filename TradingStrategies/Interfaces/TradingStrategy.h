@@ -1,3 +1,4 @@
 class TradingStrategy {
 
     public:
+  

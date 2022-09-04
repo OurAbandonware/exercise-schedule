@@ -1,4 +1,4 @@
 class TradingStrategy {
 
     public:
-        virtual int ev
+        virtual int eva

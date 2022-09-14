@@ -1,4 +1,4 @@
 class TradingStrategy {
 
     public:
-        virtual int evaluate(c
+        virtual int evaluate(ch

@@ -1,4 +1,4 @@
 class TradingStrategy {
 
     public:
-        virtual int evaluate(char *ar
+        virtual int evaluate(char *arg

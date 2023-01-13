@@ -1,1 +1,1 @@
-#include "../Interfaces/TradingStrateg
+#include "../Interfaces/TradingStrategy

@@ -1,3 +1,3 @@
 #include "../Interfaces/TradingStrategy.h"
 
-class MeanReversion: public TradingStrategy
+class MeanReversion: public TradingStrategy {

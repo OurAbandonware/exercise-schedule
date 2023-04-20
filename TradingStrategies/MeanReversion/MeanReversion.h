@@ -2,3 +2,4 @@
 
 class MeanReversion: public TradingStrategy {
 
+};
